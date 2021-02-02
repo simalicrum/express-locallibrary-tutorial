@@ -1,6 +1,6 @@
 # express-locallibrary-tutorial
 
-A library web server using Express on NodeJS.
+A library web server using [Express](http://expressjs.com/) on [NodeJS](https://nodejs.org/).
 
 Live server: [https://arcane-ravine-50400.herokuapp.com/](https://arcane-ravine-50400.herokuapp.com/)
 
